@@ -6,7 +6,6 @@
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(to bottom, #a2c2e6, #e2f3ff); 
-    background-image: url('/günbatımı.webp'); 
     background-size: cover;
     display: flex;
     justify-content: center;
